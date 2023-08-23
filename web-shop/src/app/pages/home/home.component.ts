@@ -7,5 +7,16 @@ import { Component } from '@angular/core';
   ]
 })
 export class HomeComponent {
+  cols=3;
+  category:string|undefined;
+
+  onColumnsCountChange(colsNumber:number){
+    this.cols=colsNumber;
+
+  }
+  onShowCategory(newCategory:string){
+    this.category=newCategory;
+    
+  }
 
 }

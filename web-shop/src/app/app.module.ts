@@ -19,6 +19,7 @@ import  {MatSnackBarModule} from '@angular/material/snack-bar';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ProductsHeaderComponent } from './pages/products-header/products-header.component';
+import { FiltersComponent } from './pages/filters/filters.component';
 
 
 
@@ -27,7 +28,8 @@ import { ProductsHeaderComponent } from './pages/products-header/products-header
     AppComponent,
     HeaderComponent,
     HomeComponent,
-    ProductsHeaderComponent
+    ProductsHeaderComponent,
+    FiltersComponent
   ],
   imports: [
     BrowserModule,
