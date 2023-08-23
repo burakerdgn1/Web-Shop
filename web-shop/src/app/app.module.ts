@@ -17,13 +17,17 @@ import  {MatTableModule} from '@angular/material/table';
 import  {MatBadgeModule} from '@angular/material/badge';
 import  {MatSnackBarModule} from '@angular/material/snack-bar';
 import { HeaderComponent } from './header/header.component';
+import { HomeComponent } from './pages/home/home.component';
+import { ProductsHeaderComponent } from './pages/products-header/products-header.component';
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent
+    HeaderComponent,
+    HomeComponent,
+    ProductsHeaderComponent
   ],
   imports: [
     BrowserModule,
