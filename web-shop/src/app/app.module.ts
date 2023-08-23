@@ -20,6 +20,7 @@ import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ProductsHeaderComponent } from './pages/products-header/products-header.component';
 import { FiltersComponent } from './pages/filters/filters.component';
+import { ProductBoxComponent } from './pages/product-box/product-box.component';
 
 
 
@@ -29,7 +30,8 @@ import { FiltersComponent } from './pages/filters/filters.component';
     HeaderComponent,
     HomeComponent,
     ProductsHeaderComponent,
-    FiltersComponent
+    FiltersComponent,
+    ProductBoxComponent,
   ],
   imports: [
     BrowserModule,
