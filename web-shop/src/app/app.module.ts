@@ -22,6 +22,7 @@ import { ProductsHeaderComponent } from './pages/products-header/products-header
 import { FiltersComponent } from './pages/filters/filters.component';
 import { ProductBoxComponent } from './pages/product-box/product-box.component';
 import { CartComponent } from './pages/cart/cart.component';
+import { CartService } from './services/cart.service';
 
 
 
@@ -54,7 +55,7 @@ import { CartComponent } from './pages/cart/cart.component';
   
 
   ],
-  providers: [],
+  providers: [CartService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

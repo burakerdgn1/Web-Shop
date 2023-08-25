@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Product } from 'src/app/models/product.model';
 
 
 const ROWS_HEIGHT:{[id:number]:number}={1:400,3:335,4:350};
@@ -22,8 +23,8 @@ export class HomeComponent {
     this.category=newCategory;
     
   }
-  onAddToCart(){
-    
+  onAddToCart(product:Product){
+
   }
 
 }
