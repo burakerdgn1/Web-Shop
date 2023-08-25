@@ -22,5 +22,8 @@ export class HomeComponent {
     this.category=newCategory;
     
   }
+  onAddToCart(){
+    
+  }
 
 }

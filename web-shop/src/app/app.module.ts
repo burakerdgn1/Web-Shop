@@ -21,6 +21,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { ProductsHeaderComponent } from './pages/products-header/products-header.component';
 import { FiltersComponent } from './pages/filters/filters.component';
 import { ProductBoxComponent } from './pages/product-box/product-box.component';
+import { CartComponent } from './pages/cart/cart.component';
 
 
 
@@ -32,6 +33,7 @@ import { ProductBoxComponent } from './pages/product-box/product-box.component';
     ProductsHeaderComponent,
     FiltersComponent,
     ProductBoxComponent,
+    CartComponent,
   ],
   imports: [
     BrowserModule,
