@@ -1,7 +1,9 @@
 # Web-Shop
 A simple shopping application done with MEAN Stack.
-<img width="1500" alt="home" src="https://github.com/burakerdgn1/Web-Shop/assets/61464716/b390847b-a422-4454-91b2-a0eacb4e41e6">
 
-<img width="1504" alt="cart" src="https://github.com/burakerdgn1/Web-Shop/assets/61464716/5eddb6e3-f40e-4961-8309-9df83ffdd112">
+<img width="1500" alt="home" src="https://github.com/burakerdgn1/Web-Shop/assets/61464716/dbc629ac-0e4d-4f99-b1a4-a3799727b0de">
 
-<img width="872" alt="checkout" src="https://github.com/burakerdgn1/Web-Shop/assets/61464716/a24b51eb-74e5-4d36-9c2b-6b98b9273c3d">
+<img width="1504" alt="cart" src="https://github.com/burakerdgn1/Web-Shop/assets/61464716/b33b0dd1-f4d7-491f-9c2a-ef58dd9e8be9">
+
+<img width="872" alt="checkout" src="https://github.com/burakerdgn1/Web-Shop/assets/61464716/d727439a-21d2-46c9-93d1-2f9a26b56a14">
+
